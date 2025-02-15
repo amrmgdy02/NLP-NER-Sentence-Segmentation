@@ -1,5 +1,6 @@
 ## 🍕 NLP-Based Pizza & Drink Order Parser  
 
+  
 ## 📌 Project Overview
 This project develops an NLP system that converts natural language food orders into a structured format. It uses BERT-based Named Entity Recognition (NER) to extract relevant details like pizza toppings, sizes, crust types, and drinks.
 
@@ -18,16 +19,16 @@ This project develops an NLP system that converts natural language food orders i
 5️⃣ Final Testing & Evaluation  
 
 ## Technologies Used
-Hugging Face Transformers (BERT-based NER Model: dslim/bert-ner)
+Hugging Face Transformers (BERT-based NER Model: dslim/bert-ner)  
 Pandas & NumPy for data handling
 
 ## Installation
 
 ### Prerequisites
-- NUMPY (only if you want to train the model)
-- Pandas (only if you want to train the model)
-- Scikit-learn (only if you want to train the model)
-- Transformers
+- NUMPY (only if you want to train the model)  
+- Pandas (only if you want to train the model)  
+- Scikit-learn (only if you want to train the model)  
+- Transformers  
 - JSON
   
 ### Steps
