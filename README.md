@@ -1,4 +1,4 @@
-## 🍕 NLP-Based Pizza & Drink Order Parser
+## 🍕 NLP-Based Pizza & Drink Order Parser  
 
 ## 📌 Project Overview
 This project develops an NLP system that converts natural language food orders into a structured format. It uses BERT-based Named Entity Recognition (NER) to extract relevant details like pizza toppings, sizes, crust types, and drinks.
